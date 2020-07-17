@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "865722154395",
+    "firebase_url": "https://hyperben-brew-crew.firebaseio.com",
+    "project_id": "hyperben-brew-crew",
+    "storage_bucket": "hyperben-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865722154395:android:5a7cab422cb04825b0753e",
+        "android_client_info": {
+          "package_name": "com.hyperben.brew_crew_flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865722154395-so5433cap5oe7k50g8kre5k88p37o152.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrM_Ixs1ufDh8uFguhBhXwsY4hbRtf8FQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865722154395-so5433cap5oe7k50g8kre5k88p37o152.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
